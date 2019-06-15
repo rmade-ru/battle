@@ -10,8 +10,8 @@ Vectors files:
 - box_bottom.svg	- Дно коробки
 - box_sides.svg	- Боковины коробки
 - cover_top.svg - Верх коробки с узором
-- cover_sides.svg	- Боковины коробки	
+- cover_sides.svg	- Боковины коробки
 
 Дополнение:
 - game_field_for_print.svg	- Игровое поле, вариант для печати
-- drawing_field_full.svg - Игоровое поле одной одной деталью
+- drawing_field_full.svg - Игровое поле одной деталью
